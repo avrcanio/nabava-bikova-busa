@@ -14,7 +14,6 @@ Poseban naglasak stavljen je na očuvanje ugroženih linija buše i na postupanj
 - `02_upit_dobavljacu_i_udruzi.md` - predlošci upita prema Udruzi uzgajivača buše i prodavateljima.
 - `03_evidencija_kandidata.csv` - tablica za praćenje potencijalnih kandidata.
 - `04_checklista_prije_kupnje.md` - checklista dokumentacije, zdravlja, premještaja i kupoprodaje.
-- `mailovi/` - gotovi predlošci e-mailova prema Udruzi uzgajivača buše i HAPIH-u.
 - `AGENTS.md` - lokalne upute za rad u ovom workspaceu.
 
 ## Napomena
