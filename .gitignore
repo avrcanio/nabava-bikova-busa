@@ -1,0 +1,27 @@
+# Local secrets and machine-specific configuration
+hosts.yml
+config.yml
+*.local.yml
+*.local.yaml
+*.secret.yml
+*.secret.yaml
+
+# Environment and credential files
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Exported local mail files and attachments
+*.eml
+*.msg
+
+# Operating system and editor noise
+Thumbs.db
+Desktop.ini
+.DS_Store
+.vscode/
+.idea/
+
