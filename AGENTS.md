@@ -17,3 +17,8 @@
 
 - Keep edits scoped to the requested files and task.
 - Do not modify `C:\Users\avrca\Documents\Projects\hosts.yml` unless explicitly requested.
+
+## User Context
+
+- User name: Ante Vrcan.
+- Organization: Dalmacija eko projekt.

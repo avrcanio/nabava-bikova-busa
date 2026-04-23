@@ -41,6 +41,16 @@ Strucni rad o sistematizaciji uzgoja buse naglasava da plansko vodjenje uzgoja t
    - Usporediti rodove majki i preporuke za plansko sparivanje kako bi se izbjeglo preusko srodstvo.
    - Prednost dati grlima s boljom vanjstinom, zdravljem, rastom i mirnim temperamentom.
 
+## Trenutni status
+
+Datum azuriranja: 2026-04-23
+
+- Preko tajnika Udruge buse Ante Franica ostvaren je kontakt s gospodinom Vatavukom.
+- Vatavuk je dostavio sest zivotnih brojeva za provjeru potencijalnih grla linije LB7.
+- Zivotni brojevi su upisani u `03_evidencija_kandidata.csv`.
+- Od Marijane u HAPIH-u treba zatraziti potvrdu jesu li grla stvarno iz linije LB7 te postoji li srodstvo s postojecim stadom.
+- LB10 i dalje ostaje najvisi prioritet; potrebno je nastaviti traziti musko tele ili mladu junad iz linije LB10.
+
 ## Minimalni uvjeti prije kupnje
 
 Za svako grlo prije dogovora o kupnji traziti:
